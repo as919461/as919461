@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @as919461 aka Abhi
+- 👋 Hi, I’m Abhi
 - 👀 I’m interested in coding fluid flow problems related to CFD and ML
 - 🌱 I’m currently learning data driven modeling
 - 💞️ I’m looking to collaborate on projects related to CFD, ML
